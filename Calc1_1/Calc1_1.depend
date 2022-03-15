@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1586956769 source:g:\gui\calc1_1\resource.rc
+	"resource.h"
+
+1586956783 g:\gui\calc1_1\resource.h
+
+1586968523 source:g:\gui\calc1_1\main.cpp
+	<windows.h>
+	"resource.h"
+	<bits/stdc++.h>
+

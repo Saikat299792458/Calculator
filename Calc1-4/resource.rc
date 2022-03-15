@@ -1,0 +1,4 @@
+#include"resource.h"
+#include"windows.h"
+ID_LOGO BITMAP "Logo.bmp"
+

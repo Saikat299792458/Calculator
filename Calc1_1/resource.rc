@@ -1,0 +1,3 @@
+#include"resource.h"
+ID_LOGO BITMAP "title.bmp"
+ID_ICON ICON "MSN.ico"

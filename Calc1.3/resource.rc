@@ -1,0 +1,13 @@
+#include"resource.h"
+#include"windows.h"
+ID_LOGO BITMAP "Logo.bmp"
+ID_DLG1 DIALOG DISCARDABLE 0,0,200,100
+CAPTION "Complex"
+STYLE DS_MODALFRAME|WS_CAPTION|WS_POPUP|WS_SYSMENU
+FONT 16,"Times New Roman"
+{
+    CTEXT  "Select operation mode:",ID_STATIC,30,7,80,20
+    PUSHBUTTON  "Polar",ID_POL,30,27,60,20
+    PUSHBUTTON  "Rectangular",ID_REC,30,47,60,20
+}
+
